@@ -1,8 +1,8 @@
-# 💫 About Me
-💻 Software Engineer building scalable backend systems, automation tools, and modern web platforms using Laravel, Node.js, and React.
-⚙️ Strong focus on performance optimization, security, and clean architecture  
-🔐 Experienced in RBAC systems, authentication & API integrations  
-📈 Passionate about building high-traffic and scalable platforms  
+# Sukhpreet Singh
+Software Engineer building scalable backend systems and automation tools using Laravel, Node.js and React.
+- ⚙️ Strong focus on performance optimization, security, and clean architecture  
+- 🔐 Experienced in RBAC systems, authentication and API integrations  
+- 📈 Passionate about building high-traffic and scalable platforms
 
 ---
 
@@ -86,13 +86,7 @@ Automatically generates visual documentation from codebases.
 ---
 
 # 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/SukhpreetO1?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&lines=1&config.timezone=Asia%2FCalcutta)
-
----
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=SukhpreetO1&theme=tokyonight)
-
+![Metrics](https://github.com/SukhpreetO1/SukhpreetO1/blob/main/github-metrics.svg)
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SukhpreetO1&color=blue)
