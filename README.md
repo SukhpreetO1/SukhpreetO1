@@ -64,6 +64,12 @@ Automatically generates visual documentation from codebases.
 
 ---
 
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 # 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhpreetO1&theme=tokyonight"/>
