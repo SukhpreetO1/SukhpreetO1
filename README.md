@@ -1,10 +1,8 @@
 # 💫 About Me
-💻 Software Engineer specializing in scalable web applications  
-🚀 Experienced in Laravel, React, Next.js, and MERN stack development  
+💻 Software Engineer building scalable backend systems, automation tools, and modern web platforms using Laravel, Node.js, and React.
 ⚙️ Strong focus on performance optimization, security, and clean architecture  
 🔐 Experienced in RBAC systems, authentication & API integrations  
 📈 Passionate about building high-traffic and scalable platforms  
-🎯 Currently exploring AI automation and developer productivity tools  
 
 ---
 
@@ -89,6 +87,11 @@ Automatically generates visual documentation from codebases.
 
 # 📊 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/SukhpreetO1?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&lines=1&config.timezone=Asia%2FCalcutta)
+
+---
+
+## 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=SukhpreetO1&theme=tokyonight)
 
 ---
 
